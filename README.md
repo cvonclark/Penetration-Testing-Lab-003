@@ -353,7 +353,7 @@ The following screenshots document the testing process and validated findings.
 <img width="939" height="510" alt="idor-cross-account-basket-access" src="https://github.com/user-attachments/assets/0cdc7724-3faa-4631-a233-c3baa9561716" />
 
 
-**Evidence Handling:** All authentication tokens, session cookies, passwords, and other credentials must be redacted before publication.
+
 
 ### 7. Security Recommendations
 
